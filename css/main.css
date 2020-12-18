@@ -66,7 +66,7 @@ body {
 
 .tela-principal {
     font-size: 20px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("/img/arcade.jpg");
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("../img/arcade.jpg");
     height: 500px;
     background-size: cover;
     background-position: center;
@@ -117,7 +117,7 @@ body {
 /*Final da Pagina*/
 .final{
     font-size: 20px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("/img/backgroundbottom.jpg");
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("../img/backgroundbottom.jpg");
     height: 200px;
     background-size: cover;
     background-position: center;
