@@ -1,2 +1,4 @@
 # VelhoArcade
- Site para emuladores/etc
+Site de teste para praticar HTML/CSS/Javascript.
+
+
